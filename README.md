@@ -31,6 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- <h4 align="left">- Front End:</h4> -->
+<a href="" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="40" height="40"/>
@@ -56,3 +57,4 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" width="40" height="40"/>
+</a>
