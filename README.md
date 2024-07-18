@@ -30,14 +30,13 @@
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RegisSRifaldi&layout=compact&theme=dark)
 
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="left">- Front End:</h4>
+<!-- <h4 align="left">- Front End:</h4> -->
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" height="40"/>
-
-<h4 align="left">- Back End:</h4>
+<!-- <h4 align="left">- Back End:</h4> -->
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg" width="40" height="40"/>
@@ -45,11 +44,9 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" width="40" height="40"/>
-
-<h4 align="left">- Decentralized:</h4>
+<!-- <h4 align="left">- Decentralized:</h4> -->
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Solidity.svg" width="40" height="40"/>
-
-<h4 align="left">- Others:</h4>
+<!-- <h4 align="left">- Others:</h4> -->
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Netlify-Dark.svg" width="40" height="40"/>
