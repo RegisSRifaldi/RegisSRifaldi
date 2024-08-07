@@ -57,9 +57,12 @@
 <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>&nbsp;
 </a>
 
-<h3 align="left">Library, Framework and CMS</h3><a href="https://github.com/RegisSRifaldi">
+<h3 align="left">Library, Framework and CMS</h3>
 
+<a href="https://github.com/RegisSRifaldi">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;</a>
+<a href="https://github.com/RegisSRifaldi">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;</a>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;</a>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;</a>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>&nbsp;</a>
