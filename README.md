@@ -65,6 +65,7 @@
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;</a>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;</a>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;</a>
+<a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"/>&nbsp;</a>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>&nbsp;</a>
 
 <h3 align="left">Cloud Services</h3>
@@ -72,6 +73,7 @@
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp;</a>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/>&nbsp;</a>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;</a>
+
 
 <h3 align="left">CSS Framework & Design</h3>
 <a href="https://github.com/RegisSRifaldi"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;</a>
