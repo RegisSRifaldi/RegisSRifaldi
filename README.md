@@ -10,7 +10,7 @@
 <h3 align="center"></h3>
 <img align="right" alt="Decentralized" width="300" src="https://cdn.dribbble.com/users/192882/screenshots/4659605/dribbble-animation.gif"
 
-🌱 I’m currently learning **JavaScript**
+🌱 I’m currently learning **Blockchain**
 
 💬 Ask me about **Anything**
 
